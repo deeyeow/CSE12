@@ -1,0 +1,6 @@
+Step 1: Put this folder in your home directory on ieng6 (the one named ~)
+  You can do this by typing `mv vim ~`
+
+Step 2: FROM YOUR HOME DIRECTORY, run `bash ~/vim/setup.sh`
+
+Step 3: That's it.

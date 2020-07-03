@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hw6", ".hw6.vcproj", "{4FB8CDA0-F0AB-4762-A936-4074BA4B41AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Calc|Win32 = Calc|Win32
+		Driver|Win32 = Driver|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB8CDA0-F0AB-4762-A936-4074BA4B41AC}.Calc|Win32.ActiveCfg = Calc|Win32
+		{4FB8CDA0-F0AB-4762-A936-4074BA4B41AC}.Calc|Win32.Build.0 = Calc|Win32
+		{4FB8CDA0-F0AB-4762-A936-4074BA4B41AC}.Driver|Win32.ActiveCfg = Driver|Win32
+		{4FB8CDA0-F0AB-4762-A936-4074BA4B41AC}.Driver|Win32.Build.0 = Driver|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
